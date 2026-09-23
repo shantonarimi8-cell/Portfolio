@@ -13,6 +13,7 @@ body {
 }
 
 /* Hero Animations */
+
 @keyframes fadeInUp {
   from {
     opacity: 0;

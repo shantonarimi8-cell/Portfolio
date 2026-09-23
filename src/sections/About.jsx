@@ -23,9 +23,9 @@ function About() {
         <div className="grid md:grid-cols-2 gap-10 items-center">
 
           {/* Left Side */}
-          <div className="bg-[#fff8f3] rounded-3xl p-8 md:p-10 shadow-lg border border-[#ead8cc]">
+          <div className="bg-[#f5e6dc] rounded-3xl p-8 md:p-10 shadow-lg border border-[#ead8cc]">
 
-            <div className="w-16 h-16 rounded-2xl bg-[#5a2d1c] flex items-center justify-center text-3xl mb-6 shadow-md">
+            <div className="w-16 h-16 rounded-2xl bg-[#8b4a32] flex items-center justify-center text-3xl mb-6 shadow-md">
               👩‍💻
             </div>
 
@@ -46,7 +46,7 @@ function About() {
             </p>
 
             <div className="mt-7 pt-6 border-t border-[#ead8cc]">
-              <p className="text-[#8b4a32] font-semibold">
+              <p className="text-[#5a2d1c] font-semibold">
                 💡 Always learning. Always building.
               </p>
             </div>

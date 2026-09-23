@@ -22,7 +22,7 @@ function Hero() {
               </span>
             </h1>
 
-            <h2 className="text-2xl md:text-3xl font-semibold text-[#5a2d1c] mb-6">
+            <h2 className="text-2xl md:text-3xl font-semibold text-[#8b4a32] mb-6">
               Frontend Developer
             </h2>
 
@@ -37,7 +37,7 @@ function Hero() {
               {/* View Projects Button */}
               <a
                 href="#projects"
-                className="px-7 py-3 rounded-xl bg-[#5a2d1c] text-white font-semibold shadow-lg hover:bg-[#3b1f14] hover:-translate-y-1 transition-all duration-300"
+                className="px-7 py-3 rounded-xl bg-[#5a2d1c] text-white font-semibold shadow-lg hover:bg-[#8b4a32] hover:-translate-y-1 transition-all duration-300"
               >
                 View My Projects →
               </a>
@@ -45,7 +45,7 @@ function Hero() {
               {/* Contact Button */}
               <a
                 href="#contact"
-                className="px-7 py-3 rounded-xl border-2 border-[#5a2d1c] text-[#5a2d1c] font-semibold hover:bg-[#5a2d1c] hover:text-white hover:-translate-y-1 transition-all duration-300"
+                className="px-7 py-3 rounded-xl border-2 border-[#8b4a32] text-[#8b4a32] font-semibold hover:bg-[#8b4a32] hover:text-white hover:-translate-y-1 transition-all duration-300"
               >
                 Contact Me
               </a>
@@ -70,7 +70,7 @@ function Hero() {
 
               <div className="w-72 h-72 md:w-96 md:h-96 rounded-full bg-[#f1d7c9] flex items-center justify-center shadow-2xl animate-pulse">
 
-                <div className="w-56 h-56 md:w-72 md:h-72 rounded-full bg-[#fff8f3] border-8 border-white shadow-xl flex items-center justify-center text-center">
+                <div className="w-56 h-56 md:w-72 md:h-72 rounded-full bg-[#fff8f3] border-8 border-[#ead8cc] shadow-xl flex items-center justify-center text-center">
 
                   <div>
 
@@ -82,7 +82,7 @@ function Hero() {
                       Code • Create •
                     </p>
 
-                    <p className="text-[#8b4a32] font-bold text-xl">
+                    <p className="text-[#5a2d1c] font-bold text-xl">
                       Inspire
                     </p>
 
@@ -95,7 +95,7 @@ function Hero() {
               {/* Floating Card */}
               <div className="absolute -bottom-4 -left-4 bg-white rounded-2xl px-5 py-4 shadow-xl border border-[#ead8cc] hover:-translate-y-1 transition-transform duration-300">
 
-                <p className="text-sm text-gray-500">
+                <p className="text-sm text-gray-600">
                   Currently
                 </p>
 

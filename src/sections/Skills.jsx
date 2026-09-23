@@ -90,7 +90,7 @@ function Skills() {
                   {skill.title}
                 </h3>
 
-                <span className="text-xs font-semibold px-3 py-1 rounded-full bg-[#fff0e8] text-[#8b4a32]">
+                <span className="text-xs font-semibold px-3 py-1 rounded-full bg-[#f5e6dc] text-[#8b4a32]">
                   {skill.level}
                 </span>
 
@@ -109,7 +109,7 @@ function Skills() {
                   <span>{skill.progress}</span>
                 </div>
 
-                <div className="h-2 bg-[#f1e2da] rounded-full overflow-hidden">
+                <div className="h-2 bg-[#ead8cc] rounded-full overflow-hidden">
 
                   <div
                     className="h-full bg-[#8b4a32] rounded-full transition-all duration-1000 group-hover:bg-[#5a2d1c]"
